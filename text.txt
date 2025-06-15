@@ -1,0 +1,1 @@
+Haber ara özelliği çalışmıyor. Crash veriyor tek eksiğim o.
